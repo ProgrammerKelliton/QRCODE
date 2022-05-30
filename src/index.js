@@ -3,10 +3,10 @@ import ReactDOM from "react-dom";
 import App from "./App.js";
 import GlobalStyled from "./components/GlobalStyledComponents";
 
-ReactDOM.render (
+ReactDOM.render(
     <>
-        <App/>
-        <GlobalStyled/>
+        <App />
+        <GlobalStyled />
     </>,
     document.getElementById("root")
 );
