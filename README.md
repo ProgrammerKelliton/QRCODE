@@ -1,2 +1,1 @@
-#QRCode
 # QRCODE
