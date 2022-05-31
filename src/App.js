@@ -27,13 +27,10 @@ function App() {
                     <Title setFontSize="15px">
                         Olá meu nome é Kelliton !
                         <br />
-                        <br /> Eu sou game programmer e desenvolvedor web
-                        front-end iniciante.
-                        <br />
-                        <br />
-                        Eu estou sempre tentando melhorar minhas habilidades e
-                        aprender muito mais sobre o desenvolvimento de jogos e
-                        desenvolvimento web...
+                        Faz 3 meses que eu estou estudando o front-end e esse é
+                        meu primeiro projeto em ReactJS, ainda tenho muito que
+                        aprender, mas a cada dia estou melhorando minhas
+                        habilidades e aprendendo cada vez mais...
                     </Title>
                 </Box>
             </main>
