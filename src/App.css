@@ -9,10 +9,6 @@ body {
     overflow: hidden;
 }
 
-.App {
-    overflow: hidden;
-}
-
 .App__main {
     display: flex;
     justify-content: center;
