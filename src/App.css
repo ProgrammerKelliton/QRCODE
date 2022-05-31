@@ -6,7 +6,7 @@ body {
     text-align: center;
     font-family: "Montserrat", sans-serif;
     font-style: oblique;
-    overflow-x: hidden;
+    overflow: hidden;
 }
 
 .App__main {
@@ -25,5 +25,11 @@ body {
 @media (max-width: 440px) {
     .App__main--image {
         width: 50vw;
+    }
+}
+
+@media (max-height: 670px) {
+    .App__main--image {
+        height: 30vw;
     }
 }
