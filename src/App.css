@@ -2,11 +2,11 @@
 
 body {
     background-color: aliceblue;
-    overflow: hidden;
     color: white;
     text-align: center;
     font-family: "Montserrat", sans-serif;
     font-style: oblique;
+    overflow-x: hidden;
 }
 
 .App__main {
