@@ -27,9 +27,3 @@ body {
         width: 50vw;
     }
 }
-
-@media (max-width: 480px) {
-    .App__main {
-        height: 110vh;
-    }
-}

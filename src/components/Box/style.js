@@ -15,4 +15,9 @@ export const Box = Styled.div`
     {
         width: 90vw;
     }
+
+    @media (max-height: 670px)
+    {
+        height: 90vh;
+    }
 `;
