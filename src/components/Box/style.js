@@ -1,7 +1,7 @@
 import Styled from "styled-components";
 
 export const Box = Styled.div`
-    width: 75vw;
+    width: 450px;
     background-color: #a7c7eec7;
     position: absolute;
     border-radius: 32px;
@@ -10,4 +10,9 @@ export const Box = Styled.div`
     align-items: center;
     flex-direction: column;#a7c7eec7
     backdrop-filter: blur(10px);
+
+    @media (max-width: 480px)
+    {
+        width: 90vw;
+    }
 `;
