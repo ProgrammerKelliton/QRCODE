@@ -21,3 +21,9 @@ body {
     border-radius: 15px;
     margin: 43px 0px;
 }
+
+@media (max-width: 440px) {
+    .App__main--image {
+        width: 50vw;
+    }
+}
