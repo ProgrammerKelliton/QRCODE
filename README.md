@@ -1,1 +1,1 @@
-# QRCODE
+# QRCODE (Em desenvolvimento)
